@@ -4,3 +4,6 @@
 
 #Enter your user name, Enter room name and start.
 #One room cannot have two same names. So try using different names for same room.
+
+#Deployed on Heroku 
+https://chatting-application-node.herokuapp.com/
